@@ -96,8 +96,8 @@ Your Name
 ---
 ## 📸 Application Preview
 
-![AI Email Generator](Images/Project_img1.jpeg)
 ![AI Email Generator](Images/Project_img2.jpeg)
+![AI Email Generator](Images/Project_img1.jpeg)
 
 ---
 
