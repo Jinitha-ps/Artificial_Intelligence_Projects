@@ -1,4 +1,5 @@
 # 📧 AI Email Generator using Gemini AI
+![AI Email Generator](Images/Email_Banner.png)
 
 ## 📌 Project Overview
 
